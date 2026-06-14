@@ -14,7 +14,7 @@ public class StandardDelivery extends Delivery{
         if (distance <= 0) {
             System.out.println("Standard delivery failed, distance must be possitive!");
         } else {
-            System.out.println("Standard delivery done");
+            System.out.println("Standard delivery done.");
         }
     }
 
